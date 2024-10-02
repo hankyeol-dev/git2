@@ -1,1 +1,1 @@
-func b() { print("bbbbb") }
+func b() { print("bbbbbbbb") }
